@@ -77,21 +77,20 @@ Objetivo: [tirar uma ideia do papel].
 Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
 
 ### Configure
-
-_Cole o print do DIO Agent se apresentando._
+![alt text](image.png)
 
 ### Estudar
 
-_Cole o print da explicação._
+![alt text](image-1.png)
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+![alt text](image-2.png)
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+![alt text](image-3.png)
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Segui o caminho sugerido e usei os prompts prontos do desafio, porque eu já dominava o conteúdo. Pedi ao agente um planejamento da formação Inteligência Artificial na Prática e ele montou um plano de 4 semanas, cerca de 20h no mês (1h por dia de segunda a quinta, sexta pra revisão e prática). A ordem e os prazos fizeram sentido pra mim. Um ponto honesto: ele não achou a lista real de módulos e pediu que eu mandasse, então o plano ficou um esqueleto. No fim foi neutro: funcionou, mas não tive grandes descobertas.
